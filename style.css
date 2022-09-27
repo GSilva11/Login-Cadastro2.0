@@ -146,6 +146,11 @@ a {
         text-align: center;
         margin: 1rem auto;
     }
+
+    h1 {
+        text-align: center;
+        margin: 0 auto;
+    }
 }
 
 @media screen and (max-width: 355px){
@@ -153,4 +158,8 @@ a {
         width: 70%;
     }
 
+    h1 {
+        text-align: center;
+        margin: 0 auto;
+    }
 }
