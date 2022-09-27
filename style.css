@@ -126,6 +126,15 @@ a {
 
 .conta {
     display: flex;
+    width: auto;
+}
+
+label {
+    max-width: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 @media screen and (max-width: 768px) {
